@@ -32,7 +32,8 @@ Usage:
 Make sure `diabetes.mat` is in the same directory. Run the script to train the model and 
 output a confusion matrix to evaluate its performance on the test set.
 
-Code is adapted from Professor Douglas Hundley's course materials at Whitman College and on his website: http://people.whitman.edu/~hundledr/courses/M350.html
+Code is adapted from Professor Douglas Hundley's course materials at Whitman College 
+and on his website: http://people.whitman.edu/~hundledr/courses/M350.html
 
 """
 
