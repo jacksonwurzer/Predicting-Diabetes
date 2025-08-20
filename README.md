@@ -23,3 +23,6 @@ The model is trained using backpropagation and mean squared error (MSE) loss. Th
   [[48 32]
    [26 125]] 
 
+## Files: 
+- diabetes.mat -- raw dataset stored in a MATLAB file
+- diebetes.p
