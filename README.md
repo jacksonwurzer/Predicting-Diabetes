@@ -25,4 +25,4 @@ The model is trained using backpropagation and mean squared error (MSE) loss. Th
 
 ## Files: 
 - diabetes.mat -- raw dataset stored in a MATLAB file
-- diebetes.p
+- neural_net_diabetes.py -- implementation of neural net in Python code
